@@ -1,0 +1,19 @@
+{
+  "name": "week_8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --watch=false && prettier --check .",
+    "test:watch": "vitest",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "husky": "^9.1.6",
+    "prettier": "^3.3.3",
+    "vitest": "^2.1.4"
+  }
+}
