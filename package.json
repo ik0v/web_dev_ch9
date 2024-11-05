@@ -5,7 +5,7 @@
   "scripts": {
     "test": "vitest --watch=false && prettier --check .",
     "test:watch": "vitest",
-        "prepare": "husky"
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +15,8 @@
     "husky": "^9.1.6",
     "prettier": "^3.3.3",
     "vitest": "^2.1.4"
+  },
+  "dependencies": {
+    "typescript": "^5.6.3"
   }
 }
