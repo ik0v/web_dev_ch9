@@ -9,6 +9,7 @@ exports[`test for changes with snapshot 1`] = `
     <div>
       <label>
         Avdeling:
+        <br />
         <select>
           <option>
             Møbler
